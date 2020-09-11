@@ -10,7 +10,7 @@ using namespace std;
 int  main()
 {
 	cin.clear();
-	cout << "Press anything to start" << endl;
+	cout << "Input anything to start" << endl;
 	cin.get();
 	system("cls");
 	int FirstArraySize[2];
